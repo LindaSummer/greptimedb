@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Error"],"mod":["adapter","compute","error","expr","fe_client","heartbeat","plan","repr","server","transform","utils"],"struct":["FlowWorkerManager","FlownodeBuilder","FlownodeInstance","FlownodeOptions","FlownodeServer","FrontendClient"],"type":["FlowWorkerManagerRef","Result"]};

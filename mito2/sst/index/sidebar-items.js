@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["fulltext_index","indexer","intermediate","inverted_index","puffin_manager","statistics","store"],"struct":["FulltextIndexOutput","IndexOutput","Indexer","IndexerBuilder","InvertedIndexOutput"]};
